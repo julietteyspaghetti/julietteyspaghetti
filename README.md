@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julietteyspaghetti
-- 👀 I’m interested in ... justice
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... autonomous code
+- 👀 I’m interested in ... mechanical and cybersecurity engineering
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... behavioural analysis database
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

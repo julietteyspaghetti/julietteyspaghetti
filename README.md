@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julietteyspaghetti
+- 👋 Hi, I’m @julietteathena
 - 👀 I’m interested in ... mechanical and cybersecurity engineering
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... behavioural analysis database
